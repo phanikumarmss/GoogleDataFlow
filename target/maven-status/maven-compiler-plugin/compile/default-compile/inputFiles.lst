@@ -1,0 +1,9 @@
+/opt/first-dataflow/src/main/java/com/example/common/PubsubFileInjector.java
+/opt/first-dataflow/src/main/java/com/example/common/ExamplePubsubTopicOptions.java
+/opt/first-dataflow/src/main/java/com/example/common/DataflowExampleUtils.java
+/opt/first-dataflow/src/main/java/com/example/common/ExampleBigQueryTableOptions.java
+/opt/first-dataflow/src/main/java/com/example/DebuggingWordCount.java
+/opt/first-dataflow/src/main/java/com/example/common/DataflowExampleOptions.java
+/opt/first-dataflow/src/main/java/com/example/WindowedWordCount.java
+/opt/first-dataflow/src/main/java/com/example/WordCount.java
+/opt/first-dataflow/src/main/java/com/example/MinimalWordCount.java
